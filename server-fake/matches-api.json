@@ -1,0 +1,19 @@
+{
+  "matches": 
+      {
+          "today": [
+              {
+                  "id": 1,
+                  "date": "2019-10-04 00:00:00",
+                  "team1": "Brasil",
+                  "team2": "Argentina"
+              },
+              {
+                  "id": 2,
+                  "date": "2019-10-04 00:00:00",
+                  "team1": "Barcelona",
+                  "team2": "Real Madrid"
+              }
+          ]
+      }
+}
